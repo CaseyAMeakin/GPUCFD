@@ -4,7 +4,7 @@ This is a project to port a fully compressible hydrodynamics code to GPUs. The s
 
 The current design goal for this project is to use a hybrid scheme that utilizes domain decomposition over compute nodes with local domains evolved in time using GP-GPUs.
 
-References
+### References ###
 
 1. <a id="ref1"></a> Colella, P., & Glaz, H. M., 1985, Journal of Computational Physics, 59, 264 
 2. <a id="ref2"></a> Colella, P. & Woodward, P. R., 1984, Journal of Computational Physics, 54, 174 
