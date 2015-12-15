@@ -6,6 +6,6 @@ The current design goal for this project is to use a hybrid scheme that utilizes
 
 References
 
-1. [link](#ref1) Colella, P., & Glaz, H. M., 1985, Journal of Computational Physics, 59, 264 
-2. [link](#ref2) Colella, P. & Woodward, P. R., 1984, Journal of Computational Physics, 54, 174 
-3. [link](#ref3) Meakin, C. A., & Arnett, W. D. 2007, The Astrophysical Journal, 667, 448 (  http://adsabs.harvard.edu/abs/2007ApJ...667..448M )
+1. (#ref1) Colella, P., & Glaz, H. M., 1985, Journal of Computational Physics, 59, 264 
+2. (#ref2) Colella, P. & Woodward, P. R., 1984, Journal of Computational Physics, 54, 174 
+3. (#ref3) Meakin, C. A., & Arnett, W. D. 2007, The Astrophysical Journal, 667, 448 (  http://adsabs.harvard.edu/abs/2007ApJ...667..448M )
